@@ -1,6 +1,5 @@
 # Web Gifts Dummy API
 ---
-yo gruntfile
 This doesn't depend on AD but live one should do.
 
 ### Usage
